@@ -3,6 +3,5 @@ class Book
     @title = title 
   end
   
-  def 
 end 
 
